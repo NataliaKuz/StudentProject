@@ -1,0 +1,6 @@
+Source/PatientHelperApp/.idea
+Source/PatientHelperApp/.gradle
+Source/PatientHelperApp/app/build
+Source/PatientHelperApp/app/app.iml
+Source/PatientHelperApp/local.properties
+*.iml
