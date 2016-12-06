@@ -4,39 +4,58 @@ public class LoopsExample {
 
     public static void main(String[] args) {
         System.out.println("Start");
+        System.out.println("");
+        System.out.println("While loop start");
 
-        // create different variables. Each variable in Java must start with a type
+        // A while loop does something until a condition results in being true. so in this case
+        // as long as variable whileIterator is smaller than the number 3
 
-        int number = 10; // represent a number 10. Use key word 'int' to represent integer numbers
-        double realNumber = 9.5; // represent a real number 9.6. Use key word 'double' to represent realNumber
-        String text = "This is example text"; // represent specified text. Use key word 'String' to represent text
-        boolean value = true; // boolean is a type that can take only 2 value: true or false
+        int whileIterator = 0; // declare an integer number with a start value of 0
+        while (whileIterator < 3) {
+            whileIterator++; // Add 1 to the whileIterator variable
 
-        System.out.println("Number: " + number); // this will print 'Number: 10'
+            // whileIterator += 1   This is another way of writing the addition, it does the same as the line above
+            // whileIterator = i + 1 This is another way of writing the addition, it does the same as the line above
 
-        double sum = number + realNumber; // you have to choose 'double' as a type for sum as the result of the operation is a real number
-        System.out.println("Sum: " + sum); // this will print 'Sum: 19.5'
-
-        double dif = realNumber - number;
-        System.out.println("Difference: " + dif); // this will print 'Difference: -0.5'
-
-        double mult = realNumber * number;
-        System.out.println("Multiplication: " + mult); // run this to see the result
-
-        double div = realNumber / number;
-        System.out.println("Division: " + div); // run this to see the result
-
-        double op1 = realNumber / number + number;
-        double op2 = realNumber / (number + number);
-        System.out.println("Operation1: " + op1); // run this to see the result
-        System.out.println("Operation2: " + op2); // run this to see the result
-
-        if (op1 == op2) {
-            System.out.println("brackets don't matter!"); // run this to see the result
-        } else {
-            System.out.println("brackets matter!"); // run this to see the result
+            // Because of the while loop, this part between the {} brackets will be performed 3 times
+            System.out.println("While loop run #" + whileIterator);
         }
 
+        System.out.println("While loop end");
+        System.out.println("");
+        System.out.println("For loop start");
+
+        // A for loop has three parts separated by a ;.
+        // 1. "int forIterator = 0" declares a variable with an initial value.
+        // 2.  "forIterator < 5" has a condition, as long as this condition is true, the loop will continue.
+        // 3.  "forIterator++" is the action that will be performed at the end of each loop run.
+        // In this case we add 1 to the variable forIterator.
+        for (int forIterator = 0; forIterator < 5; forIterator++) {
+            // Because of the for loop, this part between the {} brackets will be performed 5 times
+
+            // We up the number by 1 so that it does not start at index 0.
+            // The addition in the for loop declaration is performed at the end bracket }
+            int runNumber = forIterator + 1;
+
+            System.out.println("For loop run #" + runNumber);
+        }
+
+        System.out.println("For loop end");
+        System.out.println("");
+        System.out.println("Foreach loop start");
+
+        // Declare an array (collection) of strings (text)
+        String[] texts = new String[]{"a","b","c"};
+
+        // Here we go over a collection type like the array of strings "texts",
+        // the loop continues until the end of the collection
+        for (String text : texts) {
+            //We print all texts in the list
+            System.out.println("Foreach run " + text);
+        }
+
+        System.out.println("Foreach loop end");
+        System.out.println("");
         System.out.println("End");
     }
 }
