@@ -1,4 +1,4 @@
-package com.rsgtrijks.student.patienthelper;
+package com.example;
 
 public class VariableExample {
 
