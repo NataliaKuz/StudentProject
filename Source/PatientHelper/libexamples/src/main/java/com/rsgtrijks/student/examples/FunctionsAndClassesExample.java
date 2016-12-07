@@ -87,8 +87,11 @@ class Tutorial {
         result = calculator.subtract(2, 4);
         System.out.println("2 subtracted by 4 is " + result);
 
-        result = calculator.subtract(2, 4);
-        System.out.println("2 subtracted by 4 is " + result);
+        result = calculator.highest(3, 6);
+        System.out.println("3 and 6, which is higher? " + result);
+
+        result = calculator.highest(6, 3);
+        System.out.println("6 and 3, which is higher? " + result);
     }
 }
 
