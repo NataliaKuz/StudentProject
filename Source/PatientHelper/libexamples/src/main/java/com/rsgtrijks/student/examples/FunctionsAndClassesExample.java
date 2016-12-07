@@ -84,8 +84,11 @@ class Tutorial {
         result = calculator.multiply(2, 4);
         System.out.println("2 multiplied by 4 is " + result);
 
-        result = calculator.substract(2, 4);
-        System.out.println("2 substracted by 4 is " + result);
+        result = calculator.subtract(2, 4);
+        System.out.println("2 subtracted by 4 is " + result);
+
+        result = calculator.subtract(2, 4);
+        System.out.println("2 subtracted by 4 is " + result);
     }
 }
 
@@ -126,11 +129,12 @@ class Person {
 }
 
 class Calculator {
+
     int sum(int first, int second) {
         return first + second;
     }
 
-    int substract(int first, int second) {
+    int subtract(int first, int second) {
         return first - second;
     }
 
