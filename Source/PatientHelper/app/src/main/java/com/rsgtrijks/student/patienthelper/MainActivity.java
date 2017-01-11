@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,25 +21,23 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // retrieving the button to interact with it
-        Button button = (Button) findViewById(R.id.button);
+        Button button = (Button) findViewById(R.id.loginButton);
+        final TextView resultTextView = (TextView) findViewById(R.id.result);
+        final EditText userNameField = (EditText) findViewById(R.id.usernameField);
+        final EditText passwordField = (EditText) findViewById(R.id.passwordField);
 
         // creating a click listener
         View.OnClickListener buttonClickListener = new View.OnClickListener() {
-
-            // this method will be invoked once the button is clicked
             @Override
-            public void onClick(View v) {
-                // add one to our count
-                clickCount = clickCount + 1;
+            public void onClick(View view) {
+                String username = userNameField.getText().toString();
+                String password = passwordField.getText().toString();
 
-                // prepare another variable that represents text (String)
-                String text = "Button clicked: " + clickCount;
-
-                // retrieving another component: textView to interact with it
-                TextView textView = (TextView) findViewById(R.id.textView);
-
-                // connect the text with the textView
-                textView.setText(text);
+                if (username.equals("Stefanie") && password.equals("Welkom123")) {
+                    resultTextView.setText("Ingelogd");
+                } else {
+                    resultTextView.setText("Foute login");
+                }
             }
         };
 

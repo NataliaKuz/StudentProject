@@ -10,19 +10,41 @@ android:paddingRight="@dimen/activity_horizontal_margin"
 android:paddingTop="@dimen/activity_vertical_margin"
 tools:context="com.rsgtrijks.student.patienthelper.MainActivity">
 
-<TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="Hello World!"
-    android:id="@+id/textView"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/usernameField"
+        android:layout_alignParentStart="true"
+        android:hint="Gebruikersnaam"/>
 
-<Button
-    android:text="Click me"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_below="@+id/textView"
-    android:layout_alignParentStart="true"
-    android:layout_marginTop="10dp"
-    android:id="@+id/button"
-    />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_below="@+id/usernameField"
+        android:layout_alignEnd="@+id/usernameField"
+        android:layout_marginTop="15dp"
+        android:id="@+id/passwordField"
+        android:hint="Wachtwoord"/>
+
+    <Button
+        android:text="Inloggen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginButton"
+        android:layout_below="@+id/passwordField"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:text="Niet ingelogd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loginButton"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="22dp"
+        android:id="@+id/result"
+        android:layout_alignParentEnd="true"/>
 </RelativeLayout>
