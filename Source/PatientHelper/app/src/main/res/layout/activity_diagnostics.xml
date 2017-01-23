@@ -12,16 +12,9 @@
         android:text="TextView"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
-        android:id="@+id/textView"
+        android:id="@+id/KlikAan"
         tools:text="Klik aan wat u wilt bekijken"
         android:layout_weight="0.10" />
-
-    <Button
-        android:text="Button"
-        android:layout_width="151dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/ButtonHeartAttack"
-        tools:text="Hartaanval" />
 
     <Button
         android:text="Button"
@@ -30,5 +23,13 @@
         android:id="@+id/ButtonTia"
         tools:text="TIA"
         android:elevation="0dp" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ButtonHeartAttack"
+        tools:text="Hartaanval"
+        android:elevation="12dp" />
 
 </LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="Klik aan wat u wilt bekijken"
+        android:layout_width="337dp"
+        android:layout_height="75dp"
+        android:id="@+id/KlikAan" />
+
+    <Button
+        android:text="Medicijnen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Medicines" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recognise"
+        android:text="Hoe herken je een TIA?" />
+
+    <Button
+        android:text="Wat is een TIA?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/WhatItIs" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/AfterCare"
+        android:text="Nazorg" />
+</LinearLayout>

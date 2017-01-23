@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Klik aan wat u wilt bekijken"
+        android:layout_width="match_parent"
+        android:id="@+id/ClickOn"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="Medicijnen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Medicines" />
+
+    <Button
+        android:text="Wat is een hartaanval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/WhatItIs" />
+
+    <Button
+        android:text="Nazorg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Aftercare" />
+
+    <Button
+        android:text="Informatie over ICD hartkastje "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ICD" />
+</LinearLayout>
