@@ -17,6 +17,7 @@
         </activity>
 
         <activity android:name=".DiagnosticActivity"/>
+        <activity android:name=".TiaActivity"/>
 
     </application>
 

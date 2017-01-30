@@ -19,5 +19,21 @@ public class DiagnosticActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_diagnostics);
+
+        Button button = (Button) findViewById(R.id.ButtonTia);
+
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // launch the next screen you need to create an "Intent"
+                // first parameter is the current class that is launching the next screen
+                // second parameter is the screen you want to launch
+                Intent intent = new Intent(DiagnosticActivity.this, TiaActivity.class);
+
+                // simply call start
+                startActivity(intent);
+
+            }
+        });
     }
 }
