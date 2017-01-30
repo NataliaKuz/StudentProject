@@ -1,7 +1,8 @@
 package com.rsgtrijks.student.patienthelper;
 
-import android.support.v7.app.AppCompatActivity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -35,6 +36,15 @@ public class MainActivity extends AppCompatActivity {
 
                 if (username.equals("Stefanie") && password.equals("Welkom123")) {
                     resultTextView.setText("Ingelogd");
+
+                    // launch the next screen you need to create an "Intent"
+                    // first parameter is the current class that is launching the next screen
+                    // second parameter is the screen you want to launch
+                    Intent intent = new Intent(MainActivity.this, DiagnosticActivity.class);
+
+                    // simply call start
+                    startActivity(intent);
+
                 } else {
                     resultTextView.setText("Foute login");
                 }
