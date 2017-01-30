@@ -9,27 +9,34 @@
     android:baselineAligned="false">
 
     <TextView
-        android:text="TextView"
-        android:layout_width="wrap_content"
+        android:text="                        Klik aan wat u wilt bekijken"
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:id="@+id/KlikAan"
-        tools:text="Klik aan wat u wilt bekijken"
-        android:layout_weight="0.10" />
+        tools:text="                       Klik aan wat u wilt bekijken"
+        android:layout_weight="0.19"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
 
     <Button
         android:text="Button"
-        android:layout_width="154dp"
+        android:layout_width="358dp"
         android:layout_height="wrap_content"
         android:id="@+id/ButtonTia"
         tools:text="TIA"
-        android:elevation="0dp" />
+        android:elevation="0dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_weight="0.06" />
 
     <Button
         android:text="Button"
-        android:layout_width="155dp"
+        android:layout_width="357dp"
         android:layout_height="wrap_content"
         android:id="@+id/ButtonHeartAttack"
         tools:text="Hartaanval"
-        android:elevation="12dp" />
+        android:elevation="12dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_weight="0.06" />
 
 </LinearLayout>

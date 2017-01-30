@@ -4,8 +4,9 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:text="Verschillende mogelijke medicijnen"
+        android:text="                         Verschillende mogelijke medicijnen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/MedicineTIA" />
+        android:id="@+id/MedicineTIA"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
 </LinearLayout>
