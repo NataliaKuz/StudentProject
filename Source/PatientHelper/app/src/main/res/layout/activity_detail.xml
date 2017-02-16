@@ -5,11 +5,18 @@
     android:weightSum="1">
 
     <TextView
-        android:text="Nazorg"
+        android:text="Title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Aftercare"
+        android:id="@+id/Title"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:layout_weight="0.10"
         android:gravity="center" />
+    <TextView
+        android:text="This is body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/Body"
+        android:layout_weight="0.86"/>
+
+
 </LinearLayout>
