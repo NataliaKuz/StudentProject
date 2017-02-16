@@ -5,10 +5,11 @@
     android:weightSum="1">
 
     <TextView
-        android:text="                                     Wat is een TIA?"
+        android:text="Wat is een TIA?"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/WhatisTia"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:layout_weight="0.07" />
+        android:layout_weight="0.10"
+        android:gravity="center" />
 </LinearLayout>

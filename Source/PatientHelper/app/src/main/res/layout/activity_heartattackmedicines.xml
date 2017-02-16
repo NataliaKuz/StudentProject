@@ -5,10 +5,11 @@
     android:weightSum="1">
 
     <TextView
-        android:text="                                        Medicijnen"
+        android:text="Medicijnen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Medicines"
         android:layout_weight="0.07"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:gravity="center" />
 </LinearLayout>

@@ -5,10 +5,11 @@
     android:weightSum="1">
 
     <TextView
-        android:text="                                   Hoe herken je een TIA?"
+        android:text="Hoe herken je een TIA?"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Regocnise"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:layout_weight="0.05" />
+        android:layout_weight="0.10"
+        android:gravity="center" />
 </LinearLayout>

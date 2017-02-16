@@ -5,29 +5,33 @@
     android:weightSum="1">
 
     <TextView
-        android:text="                                 Klik aan wat u wilt bekijken"
-        android:layout_width="337dp"
+        android:text="Klik aan wat u wilt bekijken"
+        android:layout_width="match_parent"
         android:layout_height="75dp"
         android:id="@+id/ClickOn"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:gravity="center"
+        android:layout_weight="0.06" />
 
     <Button
         android:layout_weight="0.06"
         android:text="Medicijnen"
-        android:layout_width="358dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Medicines"
         android:layout_alignParentStart="true"
-        android:layout_marginStart="12dp"/>
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"/>
 
     <Button
         android:layout_weight="0.06"
         android:text="Nazorg"
-        android:layout_width="358dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/AfterCare"
         android:layout_alignParentStart="true"
         android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"/>
 
 
     />
@@ -37,8 +41,9 @@
         android:layout_width="358dp"
         android:layout_height="wrap_content"
         android:id="@+id/Recognise"
-        android:textAppearance="@android:style/TextAppearance.Material.Widget.Button"
         android:layout_alignParentStart="true"
         android:layout_marginStart="12dp"
-        android:layout_weight="0.06"/>
+        android:layout_marginEnd="12dp"
+        android:layout_weight="0.06" />
+
 </LinearLayout>

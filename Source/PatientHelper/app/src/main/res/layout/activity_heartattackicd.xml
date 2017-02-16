@@ -5,10 +5,11 @@
     android:weightSum="1">
 
     <TextView
-        android:text="                               Informatie over ICD hartkastje"
+        android:text="Informatie over ICD hartkastje"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/ICD"
         android:layout_weight="0.08"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:gravity="center" />
 </LinearLayout>
