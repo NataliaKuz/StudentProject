@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:weightSum="1">
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:weightSum="1">
 
     <TextView
-        android:text="Title"
+        android:id="@+id/Title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Title"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:layout_weight="0.10"
-        android:gravity="center" />
+        android:gravity="center"
+        android:text="Title"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_weight="0.10" app:srcCompat="@drawable/bed_icon"/>
+
     <TextView
-        android:text="This is body"
+        android:id="@+id/Body"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:id="@+id/Body"
-        android:layout_weight="0.86"/>
+        android:layout_height="wrap_content" android:layout_weight="0.86"
+        android:text="This is body"/>
 
 
 </LinearLayout>
