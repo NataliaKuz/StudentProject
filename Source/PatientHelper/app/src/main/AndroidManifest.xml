@@ -18,6 +18,9 @@
 
         <activity android:name=".DiagnosticActivity"/>
         <activity android:name=".TiaActivity"/>
+        <activity android:name=".HeartattackActivity"/>
+        <activity android:name=".MedicinesActivity"/>
+
 
     </application>
 
