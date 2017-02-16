@@ -7,8 +7,7 @@
 
     <TextView
         android:text="Klik aan wat u wilt bekijken"
-        android:layout_width="340dp"
-        android:layout_marginStart="12dp"
+        android:layout_width="match_parent"
         android:layout_weight="0.19"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:id="@+id/ClickOn"
@@ -20,7 +19,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/WhatItIs"
-        android:layout_alignParentStart="true"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
         android:layout_weight="0.08" />
@@ -30,7 +28,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/ICD"
-        android:layout_alignParentStart="true"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
         android:layout_weight="0.08" />
@@ -40,8 +37,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Medicines"
-        android:layout_below="@+id/passwordField"
-        android:layout_alignParentStart="true"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
         android:layout_weight="0.06" />
@@ -51,7 +46,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Aftercare"
-        android:layout_alignParentStart="true"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
         android:layout_weight="0.08" />

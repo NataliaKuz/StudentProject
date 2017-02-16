@@ -38,7 +38,7 @@
 
     <Button
         android:text="Hoe herken je een TIA?"
-        android:layout_width="358dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/Recognise"
         android:layout_alignParentStart="true"
