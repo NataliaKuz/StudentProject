@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String USERNAME = "Stefanie";
+    public static final String PASSWORD = "Welkom123";
     // this is a variable that represent a number 0 (int for Integer)
     int clickCount = 0;
 
@@ -27,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
         final EditText userNameField = (EditText) findViewById(R.id.usernameField);
         final EditText passwordField = (EditText) findViewById(R.id.passwordField);
 
+        // Let's put the working login in the text fields so we don't have to type it all the time
+        userNameField.setText(USERNAME);
+        passwordField.setText(PASSWORD);
+
         // creating a click listener
         View.OnClickListener buttonClickListener = new View.OnClickListener() {
             @Override
@@ -34,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                 String username = userNameField.getText().toString();
                 String password = passwordField.getText().toString();
 
-                if (username.equals("Stefanie") && password.equals("Welkom123")) {
+                if (username.equals(USERNAME) && password.equals(PASSWORD)) {
                     resultTextView.setText("Ingelogd");
 
                     // launch the next screen you need to create an "Intent"
