@@ -6,13 +6,16 @@
     android:weightSum="1">
 
     <TextView
-        android:text="Klik aan wat u wilt bekijken"
+        android:text="De behandeling die u krijgt bestaat uit de volgende dingen. U kunt de knop aanklikken met het onderwerp waar u meer informatie over wilt lezen"
         android:layout_width="match_parent"
         android:layout_weight="0.19"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:id="@+id/ClickOn"
         android:layout_height="wrap_content"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textSize="18sp"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"/>
 
     <Button
         android:text="Wat is een hartaanval"

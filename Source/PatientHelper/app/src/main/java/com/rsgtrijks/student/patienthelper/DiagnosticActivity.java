@@ -19,9 +19,9 @@ public class DiagnosticActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_diagnostics);
 
-        Button button = (Button) findViewById(R.id.ButtonTia);
+        Button tiabutton = (Button) findViewById(R.id.ButtonTia);
 
-        button.setOnClickListener(new View.OnClickListener() {
+        tiabutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 // launch the next screen you need to create an "Intent"

@@ -7,10 +7,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import static com.rsgtrijks.student.patienthelper.DetailActivity.ICD;
+import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_ICD;
+import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_WATISHET;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_MEDICIJNEN;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_NAZORG;
-import static com.rsgtrijks.student.patienthelper.DetailActivity.WATISHET;
 
 /**
  * Created by 310193817 on 16/02/2017.
@@ -63,7 +63,7 @@ public class HeartattackActivity extends AppCompatActivity {
                 // first parameter is the current class that is launching the next screen
                 // second parameter is the screen you want to launch
                 Intent intent = new Intent(HeartattackActivity.this, DetailActivity.class);
-                intent.putExtra(CATAGORY, WATISHET);
+                intent.putExtra(CATAGORY, HEARTATACK_WATISHET);
                 // simply call start
                 startActivity(intent);
 
@@ -77,7 +77,7 @@ public class HeartattackActivity extends AppCompatActivity {
                 // first parameter is the current class that is launching the next screen
                 // second parameter is the screen you want to launch
                 Intent intent = new Intent(HeartattackActivity.this, DetailActivity.class);
-                intent.putExtra(CATAGORY, ICD);
+                intent.putExtra(CATAGORY,HEARTATACK_ICD);
                 // simply call start
                 startActivity(intent);
             }
