@@ -40,6 +40,7 @@ public class TiaActivity extends Activity {
 
             }
         });
+
         Button buttonRevalidation = (Button) findViewById(R.id.Revalidation);
         buttonRevalidation.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,6 +56,7 @@ public class TiaActivity extends Activity {
             }
 
         });
+
         Button buttonRegognise = (Button) findViewById(R.id.Recognise);
         buttonRegognise.setOnClickListener(new View.OnClickListener() {
             @Override

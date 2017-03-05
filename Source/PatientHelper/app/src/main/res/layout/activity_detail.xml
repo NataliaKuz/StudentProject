@@ -1,30 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              xmlns:app="http://schemas.android.com/apk/res-auto"
-              android:layout_width="match_parent"
-              android:layout_height="match_parent"
-              android:orientation="vertical"
-              android:weightSum="1">
+    <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
 
-    <TextView
-        android:id="@+id/Title"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="0.10"
-        android:gravity="center"
-        android:text="Title"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"/>
+        android:scrollbarStyle="insideOverlay"
+        android:id="@+id/Scroll">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent" android:layout_height="wrap_content"
-        android:layout_weight="0.10" app:srcCompat="@drawable/bed_icon"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/Body"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:layout_weight="0.86"
-        android:text="This is body"/>
+            <TextView
+                android:id="@+id/Title"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:text="Title"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"/>
 
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                app:srcCompat="@drawable/bed_icon"/>
 
-</LinearLayout>
+            <TextView
+                android:id="@+id/Body"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="This is body"
+                android:textSize="16sp"
+                android:layout_marginStart="6dp"
+                android:layout_marginEnd="6dp"/>
+        </LinearLayout>
+    </ScrollView>
