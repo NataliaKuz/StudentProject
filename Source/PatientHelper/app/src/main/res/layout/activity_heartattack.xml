@@ -24,7 +24,18 @@
         android:id="@+id/WhatItIs"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
-        android:layout_weight="0.08" />
+        android:layout_weight="0.08"
+        android:textSize="18sp" />
+
+    <Button
+        android:text="Medicijnen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/MedicinesH"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_weight="0.06"
+        android:textSize="18sp" />
 
     <Button
         android:text="Informatie over ICD hartkastje "
@@ -33,25 +44,28 @@
         android:id="@+id/ICD"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
-        android:layout_weight="0.08" />
+        android:layout_weight="0.08"
+        android:textSize="18sp" />
 
     <Button
-        android:text="Medicijnen"
+        android:text="Revalidatie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Medicines"
+        android:id="@+id/RevalidationH"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
-        android:layout_weight="0.06" />
+        android:layout_weight="0.08"
+        android:textSize="18sp" />
 
     <Button
-        android:text="Nazorg"
+        android:text="Vergoeding"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Aftercare"
+        android:id="@+id/CompensationH"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
-        android:layout_weight="0.08" />
+        android:layout_weight="0.08"
+        android:textSize="18sp" />
 
 
 </LinearLayout>

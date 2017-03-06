@@ -7,10 +7,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_COMPENSATIONE;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_ICD;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_WATISHET;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_MEDICIJNEN;
-import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_NAZORG;
+import static com.rsgtrijks.student.patienthelper.DetailActivity.HEARTATACK_REVALIDATION;
 
 /**
  * Created by 310193817 on 16/02/2017.
@@ -25,8 +26,8 @@ public class HeartattackActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_heartattack);
-        Button button = (Button) findViewById(R.id.Medicines);
 
+        Button button = (Button) findViewById(R.id.MedicinesH);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -41,7 +42,7 @@ public class HeartattackActivity extends AppCompatActivity {
             }
         });
 
-        Button buttonAfterCare = (Button) findViewById(R.id.Aftercare);
+        Button buttonAfterCare = (Button) findViewById(R.id.RevalidationH);
         buttonAfterCare.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -49,7 +50,22 @@ public class HeartattackActivity extends AppCompatActivity {
                 // first parameter is the current class that is launching the next screen
                 // second parameter is the screen you want to launch
                 Intent intent = new Intent(HeartattackActivity.this, DetailActivity.class);
-                intent.putExtra(CATAGORY, HEARTATACK_NAZORG);
+                intent.putExtra(CATAGORY, HEARTATACK_REVALIDATION);
+                // simply call start
+                startActivity(intent);
+
+            }
+        });
+
+        Button buttonCompensation = (Button) findViewById(R.id.CompensationH);
+        buttonCompensation.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // launch the next screen you need to create an "Intent"
+                // first parameter is the current class that is launching the next screen
+                // second parameter is the screen you want to launch
+                Intent intent = new Intent(HeartattackActivity.this, DetailActivity.class);
+                intent.putExtra(CATAGORY, HEARTATACK_COMPENSATIONE);
                 // simply call start
                 startActivity(intent);
 

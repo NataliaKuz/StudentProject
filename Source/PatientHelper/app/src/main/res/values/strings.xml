@@ -1,3 +1,39 @@
 <resources>
-    <string name="app_name">PatientHelper</string>
+    <string name="app_name">ArtsOnline</string>
+    <string name="HAMedicines">
+        Geneesmiddelen bij een hartaanval worden meestal preventief gebruikt. Dat wil zeggen dat ze
+        worden gebruikt om de kans op een hartaanval te verkleinen. Deze geneesmiddelen worden
+        voorgeschreven aan mensen die een hogere kans hebben op een hartaanval, bijvoorbeeld mensen
+        die al eerder een hartaanval hebben gehad.
+
+            <p>
+                <u>Antistollingsmiddelen:</u>
+                Antistollingsmiddelen zorgen ervoor dat er minder bloedpropjes ontstaan in de aderen. Hierdoor wordt de kans op een opstopping in de aderen verminderd. De kans op een hartaanval wordt hierdoor kleiner. 
+            </p>
+
+
+                <p><u>ACE-remmers</u>
+                ACE-remmers zorgen ervoor dat je bloeddruk wordt verlaagd en het verbetert de kracht van het hart. De kans op een hartaanval wordt hierdoor af. 
+                </p>
+
+
+                <p><u>Bètablokkers</u>
+                Bètablokkers zorgen ervoor dat je bloeddruk wordt verlaagd. Ze zorgen er ook voor dat het hart minder zuurstof nodig heeft om zijn werk te bpjven doen. De hartslag wordt hierbij ook verminderd.
+                </p>
+
+                <p><u>Eplerenon</u>
+                Eplerenon wordt gebruikt wanneer het hart er erg slecht aan toe. Dit medicijn verbetert de kracht van het hart. Hierdoor kan het hart beter werken. 
+                </p>
+
+                <p><u>Calciumblokkers</u>
+                Calciumblokkers zorgen ervoor dat je bloeddruk wordt verlaagd. Ze zorgen er ook voor dat het hart minder zuurstof nodig heeft om zijn werk te bpjven doen. De kans op een nieuwe hartaanval wordt hierdoor verkleind.
+                </p>
+
+                <p><u>Omega-3-vetzuur</u>
+                Omega-3-vertzuur heeft een effect op het cholesterol en het vet in het bloed. Dit medicijn heeft maar een klein effect. Het verkleint de kans niet op het krijgen van een nieuwe hartaanval.);
+                </p>
+    </string>
+    <string name="TiaMedicines">
+        Dit zijn <b>TIA</b> medicijnen.
+    </string>
 </resources>

@@ -12,13 +12,14 @@ import static com.rsgtrijks.student.patienthelper.DetailActivity.TIA_MEDICIJNEN;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.TIA_ONTSTAAN;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.TIA_RECOGNISE;
 import static com.rsgtrijks.student.patienthelper.DetailActivity.TIA_REVALIDATIE;
-import static com.rsgtrijks.student.patienthelper.HeartattackActivity.CATAGORY;
 
 /**
  * Created by Natalia on 30/01/2017.
  */
 
 public class TiaActivity extends Activity {
+
+    public static final String CATAGORY = "CATAGORY";
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
