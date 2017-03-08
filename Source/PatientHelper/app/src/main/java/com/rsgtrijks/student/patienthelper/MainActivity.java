@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String USERNAME = "Stefanie";
+    public static final String USERNAME = "FloorSchilperoort";
     public static final String PASSWORD = "Welkom123";
     // this is a variable that represent a number 0 (int for Integer)
     int clickCount = 0;

@@ -15,7 +15,8 @@
         android:id="@+id/KlikAan"
         android:gravity="center"
         android:layout_weight="0.19"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="18sp" />
 
     <Button
         android:text="TIA"
@@ -24,7 +25,8 @@
         android:id="@+id/ButtonTia"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
-        android:layout_weight="0.06" />
+        android:layout_weight="0.06"
+        android:textSize="18sp" />
 
     <Button
         android:text="Hartaanval"
@@ -33,6 +35,7 @@
         android:id="@+id/ButtonHeartAttack"
         android:layout_marginStart="12dp"
         android:layout_marginEnd="12dp"
-        android:layout_weight="0.06" />
+        android:layout_weight="0.06"
+        android:textSize="18sp" />
 
 </LinearLayout>
