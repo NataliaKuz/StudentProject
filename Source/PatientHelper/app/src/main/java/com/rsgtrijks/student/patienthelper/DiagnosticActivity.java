@@ -31,7 +31,6 @@ public class DiagnosticActivity extends AppCompatActivity {
 
                 // simply call start
                 startActivity(intent);
-
             }
         });
         Button heartattackButton = (Button) findViewById(R.id.ButtonHeartAttack);

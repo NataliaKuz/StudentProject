@@ -8,7 +8,7 @@
       aan mensen die een hogere kans hebben op een hartaanval, bijvoorbeeld
       mensen die al eerder een hartaanval hebben gehad.
 
-      <p><u>Antistollingsmiddelen:</u>
+      <p><u>Antistollingsmiddelen:</u><br/>
         Antistollingsmiddelen zorgen
         ervoor dat er minder bloedpropjes ontstaan in de
         aderen. Hierdoor wordt de kans op een opstopping in de aderen
@@ -16,24 +16,24 @@
       </p>
 
 
-      <p><u>ACE-remmers</u>
+      <p><u>ACE-remmers</u><br/>
         ACE-remmers zorgen ervoor dat je bloeddruk wordt verlaagd en
 	het verbetert de kracht van het hart. De kans op een hartaanval wordt
 	hierdoor af.
       </p>
 
 
-      <p><u>Bètablokkers</u>
+      <p><u>Bètablokkers</u><br/>
         Bètablokkers zorgen ervoor dat je bloeddruk wordt verlaagd. Ze
 	zorgen er ook voor dat het hart minder zuurstof nodig heeft om zijn
 	werk te blijven doen. De hartslag wordt hierbij ook verminderd.
       </p>
 
-      <p><u>Eplerenon</u>
+      <p><u>Eplerenon</u><br/>
         Eplerenon wordt gebruikt wanneer het hart er erg slecht aan toe. Dit medicijn verbetert de kracht van het hart. Hierdoor kan het hart beter werken.
       </p>
 
-      <p><u>Calciumblokkers</u>
+      <p><u>Calciumblokkers</u><br/>
         Calciumblokkers zorgen ervoor dat je bloeddruk wordt
 	verlaagd. Ze zorgen er ook voor dat het hart minder zuurstof nodig
 	heeft om zijn werk te bpjven doen. De kans op een nieuwe hartaanval wordt hierdoor verkleind.
@@ -42,7 +42,7 @@
       <p><u>Omega-3-vetzuur</u>
         Omega-3-vertzuur heeft een effect op het cholesterol en het
 	vet in het bloed. Dit medicijn heeft maar een klein effect. Het
-	verkleint de kans niet op het krijgen van een nieuwe hartaanval.);
+	verkleint de kans niet op het krijgen van een nieuwe hartaanval.
       </p>
     ]]>
     </string>
@@ -56,13 +56,13 @@
             </p>
 
             <p>
-              <u>Inhoud programma</u>
+              <u>Inhoud programma</u><br/>
               Het totale programma is heel breed en bestaat uit informatie, oefeningen en leren omgaan met de aandoening. Samen met een cardioloog, verpleegkundige, fysiotherapeut, diëtist, psycholoog en/of maatschappelijk werkende wordt gewerkt aan het herstel.
               Deelnemers volgen alleen onderdelen die voor hen zinvol zijn. In een intakegesprek komen de persoonlijke doelen aan bod.
             </p>
 
             <p>
-            <u>Gezonde levensstijl</u>
+            <u>Gezonde levensstijl</u><br/>
               Door gezond te leven kunt u de kans op klachten of op een nieuwe hartaanval verkleinen. Bovendien voelt u zich waarschijnlijk prettiger wanneer u gezond leeft.
             <ul>
             <li>Stop met roken. Roken is de grootste veroorzaker van hart- en vaatziekten. Hoe eerder u stopt hoe beter. Als u stopt heeft u al direct minder kans om opnieuw een hartaanval te krijgen.</li>
@@ -70,7 +70,7 @@
             <li> Als u te zwaar bent, probeer dan af te vallen. Overgewicht vormt een extra belasting voor uw hart.</li>
             <li> Eet gezond. Eet veel verse groenten en fruit. Gebruik weinig vet.</li>
             <li> Beperk het gebruik van alcohol tot één glas per dag en drink liefst niet elke dag alcohol.</li>
-            <li> Probeer oorzaken van stress aan te pakken. Meer stress zorgt voor meer belasting op het hart, dus minder stress is minder belastend voor het hart.</li>);
+            <li> Probeer oorzaken van stress aan te pakken. Meer stress zorgt voor meer belasting op het hart, dus minder stress is minder belastend voor het hart.</li>
             </ul></p>
 		]]>
     </string>
@@ -81,7 +81,7 @@
       	        Dit geeft in het begin nog geen grote klachten. Het zal vooral te merken zijn tijdens inspanning of bij hevige emoties. In dit soort momenten heeft het namelijk extra zuurstof nodig en door de verstopping krijgt het hart dit dus niet. Dit leidt tot pijn op de borst. Wanneer de kransslagader helemaal wordt geblokkeerd is er sprake van een hartaanval.
       	        </p>
 
-                <p><u>Risicofactoren hartaanval</u>
+                <p><u>Risicofactoren hartaanval</u><br/>
                 Een aantal factoren verhoogt de kans op een hartaanval:
                 <ul>
                 <li>troken</li>
@@ -95,12 +95,12 @@
                 Ook leeftijd en geslacht spelen een rol. Op jongere leeftijd is de risico op een hartaanval lager dan op hogere leeftijd en vrouwen hebben voor de overgang minder kans op een hartaanval dan mannen.
                 </p>
 
-                <p><u>Slagaderverkalking</u>
+                <p><u>Slagaderverkalking</u><br/>
                 Een hartaanval lijkt zich vaak plotseling voor te doen. Toch gaat hier een jarenlang proces aan vooraf,  dat leidt tot verstoppingen in de kransslagaders van het hart. Dit proces heet slagaderverkalking.
                 Bij slagaderverkalking hopen vet en lichaamscellen zich op in de bloedvaten: er ontstaan verstoppingen in de kransslagaders.
                 </p>
 
-                <p><u>Signalen hartaanval</u>
+                <p><u>Signalen hartaanval</u><br/>
                 De meest voorkomende klacht bij een hartaanval is een beklemmende of drukkende pijn midden op de borst die:
                 <ul>
                 <li>in rust naar bovenarmen, hals, kaak, rug en maagstreek kan gaan</li>
@@ -109,7 +109,7 @@
                 </ul></p>
 
                 <p><u>Daarnaast hebben vrouwen - vaker dan mannen - een of meer van de volgende klachten:</u>
-                <ul>
+                <ul><br/>
                 <li>tpijn in de bovenbuik, kaak, nek of rug</li>
                 <li>pijn tussen de schouderbladen</li>
                 <li>kortademigheid\</li>
@@ -136,18 +136,18 @@
                Een ICD bestaat uit twee delen: het kastje en de elektrode(n) die voor de signalen van en naar het hart zorgen.
                </p>
 
-               <p><u>Werking van de ICD</u>
+               <p><u>Werking van de ICD</u><br/>
                Wanneer het hart niet meer klopt zoals het hoort dan begint de ICD te werken. De ICD geeft binnen 15 seconden van het merken van een verkeerde hart klopping een schok aan het hart. Deze schok kan indien nodig worden herhaald. Meestal klopt het hart weer normaal door na 1 of 2 schokken.
                </p>
 
-               <p><u>De ingreep</u>
+               <p><u>De ingreep</u><br/>
                De implantatie van een ICD gebeurt grotendeels onder plaatselijke verdoving. Een ICD heeft  1 tot 3 draden. Dit is afhankelijk van de hartziekte. Er wordt altijd een draad in de rechter onderkant van het hart geplaatst. Soms zijn er ook draden in de rechterbovenkant of linker onderkant van het hart nodig.
                De ICD komt meestal onder het linker sleutelbeen. Bij mensen die de linkerarm veel gebruiken is dit soms het rechtersleutelbeen. Een enkele keer plaatst de arts de ICD in de buik.
                De cardioloog maakt een kleine holte onder de huid, waarin de ICD wordt geplaatst. Meestal wordt de ICD meteen bij de operatie aangezet en ingesteld. De arts voert een test uit om te kijken of de draden op de goede plek zitten en of de ICD de ritmestoornis herkent.   Hiervoor wekt hij een kunstmatige hartritmestoornis op. Dit gebeurt onder lichte narcose.
                De ingreep duurt meestal anderhalf tot twee uur. De implantatie van een biventriculaire ICD kost meer tijd, omdat er een extra draad geplaatst moet worden.
                </p>
 
-               <p><u>Na de implantatie</u>
+               <p><u>Na de implantatie</u><br/>
                Na de implantatie blijft u meestal 1 of 2 dagen in het ziekenhuis. Voor het herstel na de operatie moet u 6 tot 8 weken rekenen. In deze weken moeten de draden de kans krijgen om vast te groeien in het hart.
                Houd daarom de volgende regels aan:
                <ul><li>Vermijd rekken, strekken en ronddraaiende bewegingen van de arm boven schouderhoogte (ook niet zwemmen)</li>
@@ -157,7 +157,7 @@
                <li>Probeer de arm wel te bewegen, anders ontstaan er mogelijk pijnklachten aan de schouder</li></ul>
                </p>
 
-               <p><u>Controle van de ICD</u>
+               <p><u>Controle van de ICD</u><br/>
                Een ICD moet regelmatig gecontroleerd worden. Hiervoor heeft de ICD-drager contact met de cardioloog en de ICD-technicus. De patiënt moet meestal 2 keer per jaar naar het ziekenhuis. De ICD-technicus controleert dan of de ICD goed werkt en of de instellingen juist zijn. Ook wordt de batterij van de ICD gecontroleerd. De cardioloog controleert het hart en hoe het hart klopt en leest de gegevens uit de ICD uit om te kijken of deze goed heeft gewerkt.
                Vervangen van de ICD
                Als de batterij van een ICD leeg is, dan moet de hele ICD vervangen worden. De levensduur van de ICD\'s is 5 tot 10 jaar. De levensduur is afhankelijk van de instellingen van de ICD en hoe vaak de ICD een schok moet geven.
@@ -167,7 +167,7 @@
 
                <p><u><b>Veel gestelde vragen over de ICD</p></u></b>
 
-               <p><u>Wanneer moet ik de cardioloog bellen?</u>
+               <p><u>Wanneer moet ik de cardioloog bellen?</u><br/>
                Bel altijd de cardioloog als:
                <ul><li>De ICD een schok heeft afgegeven</li>
                <li>De patiënt merkt dat hij of zij een ernstig probleem heeft met het kloppen van het hart</li>
@@ -176,23 +176,23 @@
                <li>Er ontstekingsverschijnselen zijn in de borst of buik (rode en opgezwollen huid)</li></ul>
                </p>
 
-               <p><u>Mag ik alle sporten doen met een ICD?</u>
+               <p><u>Mag ik alle sporten doen met een ICD?</u><br/>
                Bij contactsporten (bal- of vechtsporten) kan een trap of klap op de plek van de ICD pijnlijk zijn. Meestal gaat de ICD hier niet van kapot. Er kan wel een draadje beschadigd raken. Bespreek daarom met de cardioloog welke vormen van sport mogelijk zijn.
                Sommige activiteiten, zoals zwemmen of bergbeklimmen, zijn beter om te vermijden of om samen met anderen te doen. Bij deze activiteiten is het gevaarlijk om bewusteloos te raken.
                </p>
 
-               <p><u>Mag ik autorijden met een ICD?</u>
+               <p><u>Mag ik autorijden met een ICD?</u><br/>
                Autorijden na implantatie van een ICD is onder bepaalde voorwaarden toegestaan. In ieder geval is de patiënt  gedurende een observatieperiode van twee maanden na de implantatie of na een schok niet rijgeschikt.
                Als na die twee maanden bij de controle blijkt dat de ICD geen schok heeft afgegeven, ontvangt de patiënt van de cardioloog een geschiktheidsverklaring. Daarmee kan hij bij het CBR een rijbewijs aanvragen voor privégebruik (code 100) of beperkt beroepsmatig gebruik (code 101).
                Geeft de ICD na de observatieperiode opnieuw een of meer schokken, dan is de patiënt weer twee maanden niet rijgeschikt.
                Een ICD-drager mag alleen nog gebruik maken van de rijbewijzen van Groep 1 (A, B, B+E). Voor de rijbewijzen van Groep 2, dus ook voor het zogenaamde Groot Rijbewijs, komt de ICD-drager niet in aanmerking.
                </p>
 
-               <p><u>Waar moet ik op letten als ik op vakantie ga?<u>
+               <p><u>Waar moet ik op letten als ik op vakantie ga?<u><br/>
                Met een ICD mag u gewoon op vakantie. Ook met het vliegtuig. In geval van een schok of problemen met de ICD, kunt u ook in het buitenland terecht in een ziekenhuis.
                </p>
 
-               <p><u>Weer aan het werk met een ICD<u>
+               <p><u>Weer aan het werk met een ICD<u><br/>
                Het oppakken van het dagelijks leven als ICD-drager levert meestal geen problemen op. In verband met de wondgenezing wordt meestal geadviseerd tot aan de eerste controle in het ziekenhuis niet te werken. De eerste weken is zwaar lichamelijk werk niet toegestaan.
                </p>
       ]]>
@@ -213,44 +213,45 @@
                 De hoeveelheid een het aantal keer innemen per dag verschilt per persoon en hangt af van je BMI, nierfunctie en lichamelijke-inactiviteit.
                 </p>
 
-                <p><u>Acetylsalicylzuur</u>
-                Dit medicijn zorgt ervoor dat het bloed minder samenklontert. Hierdoor heeft u minder kans op een trombose (TIA). U kunt sneller inwendige bloedingen (bloedingen in uw lichaam, u ziet dus geen bloed op uw huid) en blauwe plekken krijgen. Krijgt u last van bloed in uw plas, neem dan gelijk contact op met de arts.
+                <p><u>Acetylsalicylzuur</u><br/>
+                Dit medicijn zorgt ervoor dat het <b>bloed minder samenklontert</b>. Hierdoor heeft u minder kans op een trombose (TIA). U kunt sneller inwendige bloedingen (bloedingen in uw lichaam, u ziet dus geen bloed op uw huid) en blauwe plekken krijgen. Krijgt u last van bloed in uw plas, neem dan gelijk contact op met de arts.
                 </p>
 
-                <p><u>Dipridamol</u>
-                Dit medicijn zorgt ervoor dat het bloed minder samenklontert. Hierdoor heeft u minder kans op een trombose (TIA). In het begin kunt u last krijgen van misselijkheid, kotsen, diarree, hoofdpijn en duizeligheid. Als dit niet na enkele dagen weg is moet u contact opnemen met uw arts.
+                <p><u>Dipridamol</u><br/>
+                Dit medicijn zorgt ervoor dat het <b>bloed minder samenklontert</b>. Hierdoor heeft u minder kans op een trombose (TIA). In het begin kunt u last krijgen van misselijkheid, kotsen, diarree, hoofdpijn en duizeligheid. Als dit niet na enkele dagen weg is moet u contact opnemen met uw arts.
                 </p>
 
-                <p><u>Simvastatine</u>
-                Dit medicijn verlaagt het aantal bloedvetten zoals cholesterol en vermindert aderverkalking. In het begin kunt u lat hebben van maagdarmklachten, hoofdpijn, duizeligheid, vermoeidheid of slapeloosheid. Als dit niet na enkele dagen weg is moet u contact opnemen met uw arts.
+                <p><u>Simvastatine</u><br/>
+                Dit medicijn <b>verlaagt het aantal bloedvetten</b> zoals cholesterol en vermindert aderverkalking. In het begin kunt u lat hebben van maagdarmklachten, hoofdpijn, duizeligheid, vermoeidheid of slapeloosheid. Als dit niet na enkele dagen weg is moet u contact opnemen met uw arts.
                 </p>
 
-                <p><u>Fenprocoumon</u>
-                Dit medicijn zorgt ervoor dat het bloed minder samenklontert. Hierdoor heeft u minder kans op een trombose (TIA). De trombosedienst controleert uw bloedstolling. Op basis van de uitkomsten van de test krijgt u soms wijzingen in de dosering. Als u dit medicijn aan het eind van de middag of begin van de avond slikt kunt u de eventuele wijzigingen van de dosering dezelfde dag nog opvolgen. U kunt sneller inwendige bloedingen (bloedingen in uw lichaam, u ziet dus geen bloed op uw huid) en blauwe plekken krijgen. Krijgt u last van bloed in uw plas, neem dan gelijk contact op met de arts. Laat uw apotheker controleren of u dit medicijn veilig kunt gebruiken met uw andere medicijnen. Ook de medicijnen die u zonder recept heeft gekocht. Dit medicijn kunt u niet altijd innemen in combinatie met veel andere medicijnen.
+                <p><u>Fenprocoumon</u><br/>
+                Dit medicijn zorgt ervoor dat het <b>bloed minder samenklontert</b>. Hierdoor heeft u minder kans op een trombose (TIA). De trombosedienst controleert uw bloedstolling. Op basis van de uitkomsten van de test krijgt u soms <b>wijzingen in de dosering</b>. Als u dit medicijn aan het eind van de middag of begin van de avond slikt kunt u de eventuele wijzigingen van de dosering dezelfde dag nog opvolgen. U kunt sneller inwendige bloedingen (bloedingen in uw lichaam, u ziet dus geen bloed op uw huid) en blauwe plekken krijgen. Krijgt u last van bloed in uw plas, neem dan gelijk contact op met de arts. Laat uw apotheker controleren of u dit medicijn veilig kunt gebruiken met uw andere medicijnen. Ook de medicijnen die u zonder recept heeft gekocht. Dit medicijn kunt u niet altijd innemen in combinatie met veel andere medicijnen.
                 </p>
 
-                <p><u>Digoxine</u>
-                Dit medicijn verbetert de pompkracht van het hart en zorgt voor een regelmatige en rustige hartslag
-                Als u bijwerkingen heeft bij een medicijn, bijvoorbeeld hoofdpijn, moeilijk plassen of haaruitval, dan moet u gelijk contact opnemen met uw arts.
-                Na een TIA kunt u beter geen medicijnen met het hormoon oestrogeen gebruiken bijvoorbeeld de anticonceptiepil of medicijnen voor de overgang. Dit moet u altijd in overleg doen met uw arts.);
+                <p><u>Digoxine</u><br/>
+                Dit medicijn <b>verbetert de pompkracht</b> van het hart en zorgt voor een regelmatige en rustige hartslag
+                Als u bijwerkingen heeft bij een medicijn, bijvoorbeeld hoofdpijn, moeilijk plassen of haaruitval, dan moet u gelijk contact opnemen met uw arts.</p>
+
+                <p>Na een TIA kunt u beter geen medicijnen met het <b>hormoon oestrogeen</b> gebruiken bijvoorbeeld de anticonceptiepil of medicijnen voor de overgang. Dit moet u altijd in overleg doen met uw arts.
                 </p>
       ]]>
     </string>
     <string name="TiaRecognize">
       <![CDATA[
-            <p><u>Een TIA kan je herkennen aan:</u>
-            <ul><li>Een scheve mond; één van de mondhoeken hangt naar beneden.</li>
-            <li>Verwarde spraak;  Iemand praat verward door woorden niet in de goede volgorde uit te spreken of kan de woorden zelf moeilijk uitspreken. Diegene kan soms ook niet begrijpen wat er tegen hem gezegd wordt.</li>
-            <li>amme arm of been; Iemand heeft geen kracht meer in zijn arm of been of zijn arm of been raakt verlamd. Hierdoor kan diegene zijn arm of been niet of bijna niet gebruiken en hangt het slap langs het lichaam.</li>
-            <li>Blindheid aan één of beide ogen of dubbel zien; Iemand kan niet of niet goed meer zien.</li></ul>
+            <p><u>Een TIA kan je herkennen aan:</u><br/>
+            <ul><li><b>Een scheve mond</b>; één van de mondhoeken hangt naar beneden.</li>
+            <li><b>Verwarde spraak</b>;Iemand praat verward door woorden niet in de goede volgorde uit te spreken of kan de woorden zelf moeilijk uitspreken. Diegene kan soms ook niet begrijpen wat er tegen hem gezegd wordt.</li>
+            <li><b>Lamme arm of been</b>; Iemand heeft geen kracht meer in zijn arm of been of zijn arm of been raakt verlamd. Hierdoor kan diegene zijn arm of been niet of bijna niet gebruiken en hangt het slap langs het lichaam.</li>
+            <li><b>Blindheid</b> aan één of beide ogen of dubbel zien; Iemand kan niet of niet goed meer zien.</li></ul>
             </p>
 
             <p>Niet alle kenmerken hoeven op te treden maar is afhankelijk van de plaats waar de bloeddoorstroming tijdelijk geblokkeerd wordt.</p>
 
-            <p>Nadat u deze symptomen bij u zijn verschenen moet u altijd contact opnemen met uw huisarts. Deze gaat onderzoeken of er sprake is geweest van een TIA. Er is een grote kans dat u later nog een TIA krijgt.
+            <p>Nadat u deze symptomen bij u zijn verschenen moet u altijd contact opnemen met uw <b>huisarts</b>. Deze gaat onderzoeken of er sprake is geweest van een TIA. Er is een grote kans dat u later nog een TIA krijgt.
             U word onderzocht op een TIA-polikliniek of TIA-service in het ziekenhuis. Binnen 1 dag zal hier het belangrijkste aanvullende onderzoek plaats vinden
-            door een neuroloog. Na dit onderzoek kan de neuroloog u vertellen of u een TIA heeft gehad. Vaak zal u bij de neuroloog ook een bloedonderzoek moeten
-            doen en soms ook een hersenscan. Tijdens deze hersenscan worden de slagaders bekeken en de wordt oorzaak van uw TIA vastgesteld.);
+            door een <b>neuroloog</b>. Na dit onderzoek kan de neuroloog u vertellen of u een TIA heeft gehad. Vaak zal u bij de neuroloog ook een bloedonderzoek moeten
+            doen en soms ook een hersenscan. Tijdens deze hersenscan worden de slagaders bekeken en de wordt oorzaak van uw TIA vastgesteld.
             </p>
       ]]>
     </string>
@@ -258,85 +259,85 @@
       <![CDATA[
             Er zijn twee soorten TIA’s.
 
-            <li><p><u>1.Embolie</u>
-            De hersenen krijgen zuurstof via twee slagaders. De binnenwand van de slagader kan beschadigd zijn; bloedplaatjes en cholesterol zorgen voor klonten in het bloed, dit heet plaque. Dit blijft aan de wand van de slagader zitten.
-            Als een deel van dit plaque loslaat en met het bloed mee stroomt komt het uiteindelijk in de hersenen terecht en blokkeert de klont de bloedvaten in de hersenen. Het gebied waar het bloedvat naar toe stroomt krijgt geen bloed en dus ook geen zuurstof meer. Doordat er geen zuurstof meer komt kan dat deel van de hersenen niet meer goed werken.
-            </p></li>
+            <p><u>Embolie</u><br/>
+            De hersenen krijgen zuurstof via twee slagaders. De binnenwand van de slagader kan beschadigd zijn; bloedplaatjes en cholesterol zorgen voor klonten in het bloed, dit heet <b>plaque</b>. Dit blijft aan de wand van de slagader zitten.<br/>
+            Als een deel van dit plaque loslaat en met het bloed mee stroomt komt het uiteindelijk in de hersenen terecht en blokkeert de klont de <b>bloedvaten</b> in de hersenen. Het gebied waar het bloedvat naar toe stroomt krijgt geen bloed en dus ook <b>geen zuurstof</b> meer. Doordat er geen zuurstof meer komt kan dat deel van de hersenen niet meer goed werken.
+            </p>
 
-            <li><p><u>2.Trombose</u>
-            De hersenen krijgen zuurstof via twee slagaders. De binnenwand van de slagader kan beschadigd zijn; bloedplaatjes en cholesterol zorgen voor klonten in het bloed, dit heet plaque. Dit blijft aan de wand van de slagader zitten.
-            Als een ader dicht komt te zitten door dit plaque kan er geen bloed meer door de ader. Er komt geen bloed en
-		    dus geen zuurstof meer in de hersenen. Doordat er geen zuurstof meer komt kan dat deel van de hersenen niet
-		    goed meer werken.);
-		    </p></li>
+            <p><u>Trombose</u><br/>
+            De hersenen krijgen zuurstof via twee slagaders. De binnenwand van de slagader kan beschadigd zijn; bloedplaatjes en cholesterol zorgen voor klonten in het bloed, dit heet <b>plaque</b>. Dit blijft aan de wand van de slagader zitten.<br/>
+            Als een <b>ader dicht</b> komt te zitten door dit plaque kan er geen bloed meer door de ader. Er komt geen bloed en
+		    dus <b>geen zuurstof</b> meer in de hersenen. Doordat er geen zuurstof meer komt kan dat deel van de hersenen niet
+		    goed meer werken.
+		    </p>
       ]]>
     </string>
     <string name="TiaRevalidation">
       <![CDATA[
-            <p>Uw behandeling bestaat vaak uit medicijnen en controles. Maar u moet ook zelf een aantal dingen in uw levensstijl veranderen. Soms is er ook een operatie nodig.
+            <p>Uw behandeling bestaat vaak uit <b>medicijnen</b> en <b>controles</b>. Maar u moet ook zelf een aantal dingen in uw <b>levensstijl</b> veranderen. Soms is er ook een <b>operatie</b> nodig.
             </p>
 
-            <p><u>Medicijnen</u>
-            Vaak worden na een TIA medicijnen die het samenklonteren van het bloed tegengaan voorgeschreven. Ook worden er vaak medicijnen voorgeschreven die de bloeddruk en het cholesterolgehalte verlagen. Onder het kopje ‘medicijnen’ kunt u meer informatie vinden over medicijnen.
+            <p><u>Medicijnen</u><br/>
+            Vaak worden na een TIA medicijnen die het <b>samenklonteren van het bloed tegengaan</b> voorgeschreven. Ook worden er vaak medicijnen voorgeschreven die de bloeddruk en het cholesterolgehalte verlagen. Onder het kopje ‘medicijnen’ kunt u meer informatie vinden over medicijnen.
             </p>
 
-            <p><u>Operatie</u>
-            Er is vaak geen sprake van een operatie. Een operatie wordt alleen uitgevoerd als het bloedvat bijna helemaal is afgesloten waardoor er bijna geen bloed meer doorheen kan stromen. Tijdens de operatie wordt de beschadigde plek schoongekrabd of vervangen door een kunststof buisje zodat het bloed weer goed door de ader kan stromen.
+            <p><u>Operatie</u><br/>
+            Er is <b>vaak geen sprake</b> van een operatie. Een operatie wordt alleen uitgevoerd als het bloedvat bijna helemaal is afgesloten waardoor er bijna geen bloed meer doorheen kan stromen. Tijdens de operatie wordt de beschadigde plek schoongekrabd of vervangen door een kunststof buisje zodat het bloed weer goed door de ader kan stromen.
             </p>
 
-            <p><u>Zelf zijn er een aantal dingen waar u op kunt letten om de kans op een nieuwe TIA te voorkomen:</u>
-            <ul><li>1.Stop met roken</li>
-            <li>2.Beweeg voldoende</li>
-            <li>3.Verminder uw alcoholconsumptie (maximaal 1 glas per dag)</li>
-            <li>4.Eet gezond en gevarieerd (veel verse groenten en fruit)</li>
-            <li>5Neem dagelijks uw medicijnen in</li>
-            <li>6.Probeer bij overgewicht af te vallen</li>
-            <li>7.Leer met stress omgaan</li></ul>
+            <p><u>Zelf zijn er een aantal dingen waar u op kunt letten om de kans op een nieuwe TIA te voorkomen:</u><br/>
+            <ul><li>Stop met roken</li>
+            <li>Beweeg voldoende</li>
+            <li>Verminder uw alcoholconsumptie (maximaal 1 glas per dag)</li>
+            <li>Eet gezond en gevarieerd (veel verse groenten en fruit)</li>
+            <li>Neem dagelijks uw medicijnen in</li>
+            <li>Probeer bij overgewicht af te vallen</li>
+            <li>Leer met stress omgaan</li></ul>
             </p>
 
-            <p>De gemiddelde revalidatietijd is een half jaar. Deze revalidatie start in het ziekenhuis. Hierna zijn er drie plekken waar u kunt revalideren:
-           <ul><li> 1.Thuis</li>
-            <li>2.In het verpleeghuis</li>
-            <li>3.In het revalidatiecentrum</li></ul>
+            <p>De gemiddelde revalidatietijd is een half jaar. Deze revalidatie start in het ziekenhuis. Hierna zijn er <b>drie plekken</b> waar u kunt revalideren:
+           <ul><li> Thuis</li>
+            <li>In het verpleeghuis</li>
+            <li>In het revalidatiecentrum</li></ul>
             </p>
 
             <p>De meeste mensen gaan na de ziekenhuisopname thuis revalideren. Vanuit hier is het mogelijk dat u naar de dagopvang in het revalidatiecentrum gaat of thuis verpleegd wordt. Toch zal de grootste zorg vaak door een naaste op zich worden genomen.
-            Er zijn verschillende professionals die helpen bij de revalidatie. Hieronde staan de drie meest voorkomende.
-            <li>1.De fysiotherapeut en ergotherapeut : Zij helpen u met de revalidatie van bewegingsfuncties en alledaagse handelingen</li>
-            <li>2.De logopedist: Hij helpt u bij spraak-, taal-, en slikproblemen</li>
-            <li>3.De psycholoog: Hij helpt u bij geheugen-, aandachts-, en gedragsstoornissen</li>
+            Er zijn verschillende <b>professionals</b> die helpen bij de revalidatie. Hieronde staan de drie meest voorkomende.
+            <li>De fysiotherapeut en ergotherapeut : Zij helpen u met de revalidatie van bewegingsfuncties en alledaagse handelingen</li>
+            <li>De logopedist: Hij helpt u bij spraak-, taal-, en slikproblemen</li>
+            <li>De psycholoog: Hij helpt u bij geheugen-, aandachts-, en gedragsstoornissen</li>
             </p>
 
-            <p><u>Hoe gaat de revalidatie bij uw arts in zijn werk?</u>
-            <ul><li>1. U bespreekt samen met uw arts wat u kunt doen om uw risico op een nieuwe TIA te verminderen en u maakt een plan</li>
-            <li>2.U krijgt medicijnen</li>
-            <li>3.U heeft controles waar u bespreekt en hoe het met u gaat. Uw arts controleert of de medicijnen goed werken en naar eventuele bijwerkingen</li></ul>
+            <p><u>Hoe gaat de revalidatie bij uw <b>arts</b> in zijn werk?</u><br/>
+            <ul><li>U bespreekt samen met uw arts wat u kunt doen om uw risico op een nieuwe TIA te verminderen en u maakt een plan</li>
+            <li>U krijgt medicijnen</li>
+            <li>U heeft controles waar u bespreekt en hoe het met u gaat. Uw arts controleert of de medicijnen goed werken en naar eventuele bijwerkingen</li></ul>
             </p>
 
-            <p>Er zijn verschillende centra die hulp bieden bij het revalideren. Deze zijn bijna altijd geheel kosteloos. Het beste kunt u een centrum opzoeken bij u in de buurt.
+            <p>Er zijn verschillende <b>centra</b> die hulp bieden bij het revalideren. Deze zijn bijna altijd geheel kosteloos. Het beste kunt u een centrum opzoeken bij u in de buurt.
             </p>
 
-            <p><u>Mag ik autorijden na een TIA?<u>
-            De eerste twee weken na uw TIA mag u niet
+            <p><u>Mag ik autorijden na een TIA?<u><br/>
+            De <b>eerste twee weken</b> na uw TIA mag u niet
 		    autorijden. Na deze 2 weken kijkt een neuroloog of een
 	    	revalidatie-arts of u schade heeft opgelopen waardoor
 		    u niet meer zou mogen rijden. Als dit niet zo is mag u
 		    weer autorijden, maar alleen als u de behandeling van
 		    de neuroloog blijft volgen om een volgende TIA te
-		    voorkomen.);
+		    voorkomen.
 		    </p>
       ]]>
     </string>
     <string name="TiaCompensation">
       <![CDATA[
-        <p>De medicijnen die u voorgeschreven krijgt worden meestal vergoed door de basisverzekering. Deze medicijnen kunt u vinden op de lijst van ‘geneesmiddelen vergoedingssysteem’. Wel moet u een eigen bijdrage betalen.
+        <p>De medicijnen die u voorgeschreven krijgt worden <b>meestal vergoed</b> door de basisverzekering. Deze medicijnen kunt u vinden op de lijst van ‘geneesmiddelen vergoedingssysteem’. Wel moet u een <b>eigen bijdrage</b> betalen.
         </p>
 
         <p>Ook moet er vaak een bloedonderzoek gedaan worden,
 		deze wordt niet door de basisverzekering
-		gedekt. Hiervoor is er een aanvullende verzekering
+		gedekt. Hiervoor is er een <b>aanvullende verzekering</b>
 		nodig. Met een aanvullende verzekering hoeft u geen
-		eigen bijdrage meer te betalen.);
+		eigen bijdrage meer te betalen.
 		</p>
       ]]>
     </string>
