@@ -12,7 +12,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:orientation="vertical" >
 
             <TextView
@@ -29,10 +29,10 @@
                 android:layout_height="100dp"
                 app:srcCompat="@drawable/bed_icon"/>
 
-            <TextView
+            <WebView
                 android:id="@+id/Body"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:text="This is body"
                 android:textSize="16sp"
                 android:layout_marginStart="6dp"

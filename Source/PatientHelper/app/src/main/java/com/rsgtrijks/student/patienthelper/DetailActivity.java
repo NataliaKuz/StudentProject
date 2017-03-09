@@ -3,12 +3,9 @@ package com.rsgtrijks.student.patienthelper;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
-import android.text.Html;
-import android.text.Spanned;
+import android.webkit.WebView;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import com.rsgtrijks.student.patienthelper.R;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -28,7 +25,7 @@ public class DetailActivity extends AppCompatActivity {
     public static final String TIA_COMPENSATION = "Hier leest u wat er wordt vergoed bij een TIA";
 
     public static final String HEARTATACK_MEDICIJNEN = "Hier vindt u informatie over de meest voorkomende hart medicijnen";
-    public static final String HEARTATACK_REVALIDATION= "Hier leest u hoe de revalidatie na een hartaanval in zijn werk gaat";
+    public static final String HEARTATACK_REVALIDATION = "Hier leest u hoe de revalidatie na een hartaanval in zijn werk gaat";
     public static final String HEARTATACK_WATISHET = "Hier leest u wat een hartaanval precies is";
     public static final String HEARTATACK_ICD = "Hier kunt u alle informatie over de ICD lezen";
     public static final String HEARTATACK_COMPENSATIONE = "Hier leest u wat er wordt vergoed bij een hartaanval";
@@ -77,16 +74,14 @@ public class DetailActivity extends AppCompatActivity {
         TextView title = (TextView) findViewById(R.id.Title);
         title.setText(category);
 
-        TextView body = (TextView) findViewById(R.id.Body);
+        WebView body = (WebView) findViewById(R.id.Body);
         String htmlString = dictionary.get(category);
-        body.setText(Html.fromHtml(htmlString));
+        body.loadDataWithBaseURL(null, htmlString, "text/html", "UTF-8", null);
 
         ImageView image = (ImageView) findViewById(R.id.imageView);
         image.setImageResource(imageDictionary.get(category));
     }
-
-
-    }
+}
 
 
 
