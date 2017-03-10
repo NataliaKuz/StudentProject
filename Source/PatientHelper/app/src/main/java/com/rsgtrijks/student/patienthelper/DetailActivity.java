@@ -37,10 +37,10 @@ public class DetailActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
 
         dictionary.put(HEARTATACK_MEDICIJNEN, getString(R.string.HaMedicines));
-        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
+        imageDictionary.put(HEARTATACK_MEDICIJNEN, R.drawable.wit_image);
 
         dictionary.put(HEARTATACK_REVALIDATION, getString(R.string.HaRevalidation));
-        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
+        imageDictionary.put(HEARTATACK_REVALIDATION, R.drawable.wit_image);
 
         dictionary.put(HEARTATACK_WATISHET, getString(R.string.HaDescription));
         imageDictionary.put(HEARTATACK_WATISHET, R.drawable.kransslagader_verstopping);
@@ -49,7 +49,7 @@ public class DetailActivity extends AppCompatActivity {
         imageDictionary.put(HEARTATACK_ICD, R.drawable.icd_image);
 
         dictionary.put(HEARTATACK_COMPENSATIONE, getString(R.string.HaCompensation));
-        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
+        imageDictionary.put(HEARTATACK_COMPENSATIONE, R.drawable.wit_image);
 
         dictionary.put(TIA_MEDICIJNEN, getString(R.string.TiaMedicines));
         imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
@@ -61,10 +61,10 @@ public class DetailActivity extends AppCompatActivity {
         imageDictionary.put(TIA_ONTSTAAN, R.drawable.trombose_embolie);
 
         dictionary.put(TIA_REVALIDATIE, getString(R.string.TiaRevalidation));
-        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
+        imageDictionary.put(TIA_REVALIDATIE, R.drawable.wit_image);
 
         dictionary.put(TIA_COMPENSATION, getString(R.string.TiaCompensation));
-        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
+        imageDictionary.put(TIA_COMPENSATION, R.drawable.wit_image);
 
         super.onCreate(savedInstanceState);
 
