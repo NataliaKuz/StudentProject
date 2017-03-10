@@ -49,7 +49,7 @@
     <string name="HaRevalidation">
       <![CDATA[
 		    <p>
-		      Hartrevalidatie is bedoeld om er lichamelijk en psychisch weer bovenop te komen. Je verkleint de kans op een volgende hartaanval door de levensstijl aan te passen: niet roken, weinig stress, gezonde voeding, een gezond gewicht en dagelijks 30 minuten matig/intensief bewegen.
+		      Hartrevalidatie is bedoeld om er <b>lichamelijk en psychisch</b> weer bovenop te komen. Je verkleint de kans op een volgende hartaanval door de levensstijl aan te passen: niet roken, weinig stress, gezonde voeding, een gezond gewicht en dagelijks 30 minuten matig/intensief bewegen.
 		      Hartrevalidatie is voor iedereen die recent behandeld is voor het hart en het helpt bij het herstel.
               Hartrevalidatie start na behandeling in het ziekenhuis. Het vindt plaats in het ziekenhuis of in het revalidatiecentrum. Het hele traject duurt 6 weken tot 3 maanden.
               Voor deelname aan hartrevalidatie is een verwijzing nodig van de cardioloog.
@@ -65,19 +65,19 @@
             <u>Gezonde levensstijl</u><br/>
               Door gezond te leven kunt u de kans op klachten of op een nieuwe hartaanval verkleinen. Bovendien voelt u zich waarschijnlijk prettiger wanneer u gezond leeft.
             <ul>
-            <li>Stop met roken. Roken is de grootste veroorzaker van hart- en vaatziekten. Hoe eerder u stopt hoe beter. Als u stopt heeft u al direct minder kans om opnieuw een hartaanval te krijgen.</li>
-            <li> Blijf zorgen voor voldoende lichaamsbeweging, zonder te forceren. Bouw de activiteiten geleidelijk op en houd rekening met uw lichamelijke mogelijkheden. Tijdens de inspanning moet u nog in staat zijn te praten.</li>
+            <li> <b>Stop met roken</b>. Roken is de grootste veroorzaker van hart- en vaatziekten. Hoe eerder u stopt hoe beter. Als u stopt heeft u al direct minder kans om opnieuw een hartaanval te krijgen.</li>
+            <li> Blijf zorgen voor <b>voldoende lichaamsbeweging</b>, zonder te forceren. Bouw de activiteiten geleidelijk op en houd rekening met uw lichamelijke mogelijkheden. Tijdens de inspanning moet u nog in staat zijn te praten.</li>
             <li> Als u te zwaar bent, probeer dan af te vallen. Overgewicht vormt een extra belasting voor uw hart.</li>
-            <li> Eet gezond. Eet veel verse groenten en fruit. Gebruik weinig vet.</li>
-            <li> Beperk het gebruik van alcohol tot één glas per dag en drink liefst niet elke dag alcohol.</li>
-            <li> Probeer oorzaken van stress aan te pakken. Meer stress zorgt voor meer belasting op het hart, dus minder stress is minder belastend voor het hart.</li>
+            <li> <b>Eet gezond</b>. Eet veel verse groenten en fruit. Gebruik weinig vet.</li>
+            <li> <b>Beperk het gebruik van alcohol</b> tot één glas per dag en drink liefst niet elke dag alcohol.</li>
+            <li> Probeer <b>oorzaken van stress</b> aan te pakken. Meer stress zorgt voor meer belasting op het hart, dus minder stress is minder belastend voor het hart.</li>
             </ul></p>
 		]]>
     </string>
     <string name="HaDescription">
       <![CDATA[
       	        <p>
-      	        Een hartaanval is een verstopping in een kransslagader van het hart. De kransslagader zorgt ervoor dat het hart voldoende zuurstof en voedingsstoffen krijgt, waardoor het zijn werk kan blijven doen. Deze kransslagader ligt om het hart als een soort krans, vandaar de naam. Wanneer de kransslagader verstopt raakt dan krijgt het hart dus te weinig zuurstof en voedingsstoffen. Een deel van het spier van het hart wordt hierdoor beschadigd en sterft af.
+      	        Een hartaanval is een verstopping in een <b>kransslagader</b> van het hart. De kransslagader zorgt ervoor dat het hart voldoende zuurstof en voedingsstoffen krijgt, waardoor het zijn werk kan blijven doen. Deze kransslagader ligt om het hart als een soort krans, vandaar de naam. Wanneer de kransslagader verstopt raakt dan krijgt het hart dus te weinig zuurstof en voedingsstoffen. Een deel van het spier van het hart wordt hierdoor beschadigd en sterft af.
       	        Dit geeft in het begin nog geen grote klachten. Het zal vooral te merken zijn tijdens inspanning of bij hevige emoties. In dit soort momenten heeft het namelijk extra zuurstof nodig en door de verstopping krijgt het hart dit dus niet. Dit leidt tot pijn op de borst. Wanneer de kransslagader helemaal wordt geblokkeerd is er sprake van een hartaanval.
       	        </p>
 
@@ -96,8 +96,8 @@
                 </p>
 
                 <p><u>Slagaderverkalking</u><br/>
-                Een hartaanval lijkt zich vaak plotseling voor te doen. Toch gaat hier een jarenlang proces aan vooraf,  dat leidt tot verstoppingen in de kransslagaders van het hart. Dit proces heet slagaderverkalking.
-                Bij slagaderverkalking hopen vet en lichaamscellen zich op in de bloedvaten: er ontstaan verstoppingen in de kransslagaders.
+                Een hartaanval lijkt zich vaak plotseling voor te doen. Toch gaat hier een jarenlang proces aan vooraf,  dat leidt tot verstoppingen in de kransslagaders van het hart. Dit proces heet <b>slagaderverkalking</b>.
+                Bij slagaderverkalking hopen vet en lichaamscellen zich op in de bloedvaten: er ontstaan <b>verstoppingen</b> in de kransslagaders.
                 </p>
 
                 <p><u>Signalen hartaanval</u><br/>
@@ -128,11 +128,11 @@
     </string>
     <string name="HaIcd">
       <![CDATA[
-		       <p>Een ICD is een kastje in het lichaam voor mensen met een gevaarlijke en onvoorspelbare stoornis aan het hart. De ICD geeft een schok om het normale ritme van het hart te herstellen. De schok komt af van een elektrode dat in of op het hart wordt geplaatst. Zo voorkomt het een hartstilstand.
+		       <p>Een ICD is een <b>kastje in het lichaam</b> voor mensen met een gevaarlijke en onvoorspelbare stoornis aan het hart. De ICD geeft een schok om het normale ritme van het hart te herstellen. De schok komt af van een elektrode dat in of op het hart wordt geplaatst. Zo voorkomt het een hartstilstand.
                De afkorting ICD staat voor Implanteerbare Cardioverter Defibrillator.
-               <ul><li>Implanteerbaar: wordt onder de huid aangebracht</li>
-               <li>Cardioverter: het omzetten van een niet normaal ritme in het hart naar een normaal ritme</li>
-               <li>Defibrillator: het afgeven van een schok om het normale ritme van het hart te herstellen</li></ul>
+               <ul><li><b>I</b>mplanteerbaar: wordt onder de huid aangebracht</li>
+               <li><b>C</b>ardioverter: het omzetten van een niet normaal ritme in het hart naar een normaal ritme</li>
+               <li><b>D</b>efibrillator: het afgeven van een schok om het normale ritme van het hart te herstellen</li></ul>
                Een ICD bestaat uit twee delen: het kastje en de elektrode(n) die voor de signalen van en naar het hart zorgen.
                </p>
 
@@ -150,15 +150,15 @@
                <p><u>Na de implantatie</u><br/>
                Na de implantatie blijft u meestal 1 of 2 dagen in het ziekenhuis. Voor het herstel na de operatie moet u 6 tot 8 weken rekenen. In deze weken moeten de draden de kans krijgen om vast te groeien in het hart.
                Houd daarom de volgende regels aan:
-               <ul><li>Vermijd rekken, strekken en ronddraaiende bewegingen van de arm boven schouderhoogte (ook niet zwemmen)</li>
-               <li>Til geen zware dingen en verricht geen zwaar werk met de armen (de onderarmen mogen wel bewegen)</li>
+               <ul><li><b>Vermijd rekken</b>, strekken en ronddraaiende bewegingen van de arm boven schouderhoogte (ook niet zwemmen)</li>
+               <li><b>Til geen zware dingen</b> en verricht geen zwaar werk met de armen (de onderarmen mogen wel bewegen)</li>
                <li>Probeer de arm niet achter het te lichaam brengen, pas bijvoorbeeld op met het aantrekken van de jas</li>
-               <li>Vermijd knellende kleding in verband met irritatie van de wond</li>
-               <li>Probeer de arm wel te bewegen, anders ontstaan er mogelijk pijnklachten aan de schouder</li></ul>
+               <li><b>Vermijd knellende kleding</b> in verband met irritatie van de wond</li>
+               <li>Probeer de arm <b>wel te bewegen</b>, anders ontstaan er mogelijk pijnklachten aan de schouder</li></ul>
                </p>
 
                <p><u>Controle van de ICD</u><br/>
-               Een ICD moet regelmatig gecontroleerd worden. Hiervoor heeft de ICD-drager contact met de cardioloog en de ICD-technicus. De patiënt moet meestal 2 keer per jaar naar het ziekenhuis. De ICD-technicus controleert dan of de ICD goed werkt en of de instellingen juist zijn. Ook wordt de batterij van de ICD gecontroleerd. De cardioloog controleert het hart en hoe het hart klopt en leest de gegevens uit de ICD uit om te kijken of deze goed heeft gewerkt.
+               Een ICD moet regelmatig gecontroleerd worden. Hiervoor heeft de ICD-drager contact met de <b>cardioloog</b> en de ICD-technicus. De patiënt moet meestal <b>2 keer per jaar</b> naar het ziekenhuis. De ICD-technicus controleert dan of de ICD goed werkt en of de instellingen juist zijn. Ook wordt de batterij van de ICD gecontroleerd. De cardioloog controleert het hart en hoe het hart klopt en leest de gegevens uit de ICD uit om te kijken of deze goed heeft gewerkt.
                Vervangen van de ICD
                Als de batterij van een ICD leeg is, dan moet de hele ICD vervangen worden. De levensduur van de ICD\'s is 5 tot 10 jaar. De levensduur is afhankelijk van de instellingen van de ICD en hoe vaak de ICD een schok moet geven.
                Bij elke controle in het ziekenhuis wordt het energieniveau van de batterij gecontroleerd. Als het energieniveau beneden een bepaalde waarde komt, dan wordt de ICD op korte termijn vervangen. Dit gebeurt ruim op tijd, voordat de batterij leeg is.
@@ -169,10 +169,10 @@
 
                <p><u>Wanneer moet ik de cardioloog bellen?</u><br/>
                Bel altijd de cardioloog als:
-               <ul><li>De ICD een schok heeft afgegeven</li>
+               <ul><li>De ICD een <b>schok</b> heeft afgegeven</li>
                <li>De patiënt merkt dat hij of zij een ernstig probleem heeft met het kloppen van het hart</li>
                <li>Als de patiënt (even) buiten bewustzijn is geraakt</li>
-               <li>De ICD piept om aan te geven dat de batterijen opraken</li>
+               <li>De ICD <b>piept</b> om aan te geven dat de batterijen opraken</li>
                <li>Er ontstekingsverschijnselen zijn in de borst of buik (rode en opgezwollen huid)</li></ul>
                </p>
 
@@ -183,7 +183,7 @@
 
                <p><u>Mag ik autorijden met een ICD?</u><br/>
                Autorijden na implantatie van een ICD is onder bepaalde voorwaarden toegestaan. In ieder geval is de patiënt  gedurende een observatieperiode van twee maanden na de implantatie of na een schok niet rijgeschikt.
-               Als na die twee maanden bij de controle blijkt dat de ICD geen schok heeft afgegeven, ontvangt de patiënt van de cardioloog een geschiktheidsverklaring. Daarmee kan hij bij het CBR een rijbewijs aanvragen voor privégebruik (code 100) of beperkt beroepsmatig gebruik (code 101).
+               Als na die <b>twee maanden</b> bij de controle blijkt dat de ICD geen schok heeft afgegeven, ontvangt de patiënt van de cardioloog een geschiktheidsverklaring. Daarmee kan hij bij het CBR een rijbewijs aanvragen voor privégebruik (code 100) of beperkt beroepsmatig gebruik (code 101).
                Geeft de ICD na de observatieperiode opnieuw een of meer schokken, dan is de patiënt weer twee maanden niet rijgeschikt.
                Een ICD-drager mag alleen nog gebruik maken van de rijbewijzen van Groep 1 (A, B, B+E). Voor de rijbewijzen van Groep 2, dus ook voor het zogenaamde Groot Rijbewijs, komt de ICD-drager niet in aanmerking.
                </p>
@@ -193,13 +193,13 @@
                </p>
 
                <p><u>Weer aan het werk met een ICD<u><br/>
-               Het oppakken van het dagelijks leven als ICD-drager levert meestal geen problemen op. In verband met de wondgenezing wordt meestal geadviseerd tot aan de eerste controle in het ziekenhuis niet te werken. De eerste weken is zwaar lichamelijk werk niet toegestaan.
+               Het oppakken van het dagelijks leven als ICD-drager levert meestal geen problemen op. In verband met de wondgenezing wordt meestal geadviseerd tot aan de eerste controle in het ziekenhuis niet te werken. De eerste weken is zwaar lichamelijk <b>werk niet toegestaan</b>.
                </p>
       ]]>
     </string>
     <string name="HaCompensation">
       <![CDATA[
-               <p>Hartrevalidatie in een ziekenhuis of revalidatiecentrum, met verwijzing van de cardioloog, wordt vergoed vanuit de basisverzekering.
+               <p>Hartrevalidatie in een ziekenhuis of revalidatiecentrum, met verwijzing van de cardioloog, wordt vergoed vanuit de <b>basisverzekering</b>.
                 Er zijn ook fysiotherapeuten die hartrevalidatie aanbieden. Dit valt niet onder de basisverzekering, omdat het iets anders is dan de aanpak in een ziekenhuis. Hiervoor kunt u het beste contact opnemen met uw cardioloog of anders uw huisarts.
                 </p>
 
