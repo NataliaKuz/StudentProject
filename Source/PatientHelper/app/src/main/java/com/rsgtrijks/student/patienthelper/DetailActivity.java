@@ -52,7 +52,7 @@ public class DetailActivity extends AppCompatActivity {
         imageDictionary.put(HEARTATACK_COMPENSATIONE, R.drawable.wit_image);
 
         dictionary.put(TIA_MEDICIJNEN, getString(R.string.TiaMedicines));
-        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
+        imageDictionary.put(TIA_MEDICIJNEN, R.drawable.wit_image);
 
         dictionary.put(TIA_RECOGNISE, getString(R.string.TiaRecognize));
         imageDictionary.put(TIA_RECOGNISE, R.drawable.verschijnselen_herkennen);
