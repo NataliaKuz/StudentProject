@@ -37,8 +37,10 @@ public class DetailActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
 
         dictionary.put(HEARTATACK_MEDICIJNEN, getString(R.string.HaMedicines));
+        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
 
         dictionary.put(HEARTATACK_REVALIDATION, getString(R.string.HaRevalidation));
+        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
 
         dictionary.put(HEARTATACK_WATISHET, getString(R.string.HaDescription));
         imageDictionary.put(HEARTATACK_WATISHET, R.drawable.kransslagader_verstopping);
@@ -47,18 +49,22 @@ public class DetailActivity extends AppCompatActivity {
         imageDictionary.put(HEARTATACK_ICD, R.drawable.icd_image);
 
         dictionary.put(HEARTATACK_COMPENSATIONE, getString(R.string.HaCompensation));
+        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
 
         dictionary.put(TIA_MEDICIJNEN, getString(R.string.TiaMedicines));
+        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
 
         dictionary.put(TIA_RECOGNISE, getString(R.string.TiaRecognize));
-        imageDictionary.put(TIA_RECOGNISE, R.drawable.herkennen_tia);
+        imageDictionary.put(TIA_RECOGNISE, R.drawable.verschijnselen_herkennen);
 
         dictionary.put(TIA_ONTSTAAN, getString(R.string.TiaCauses));
         imageDictionary.put(TIA_ONTSTAAN, R.drawable.trombose_embolie);
 
         dictionary.put(TIA_REVALIDATIE, getString(R.string.TiaRevalidation));
+        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
 
         dictionary.put(TIA_COMPENSATION, getString(R.string.TiaCompensation));
+        imageDictionary.put(TIA_ONTSTAAN, R.drawable.wit_image);
 
         super.onCreate(savedInstanceState);
 
@@ -71,6 +77,7 @@ public class DetailActivity extends AppCompatActivity {
         WebView body = (WebView) findViewById(R.id.Body);
         String htmlString = dictionary.get(category);
         body.loadDataWithBaseURL(null, htmlString, "text/html", "UTF-8", null);
+
 
         ImageView image = (ImageView) findViewById(R.id.imageView);
         image.setImageResource(imageDictionary.get(category));
